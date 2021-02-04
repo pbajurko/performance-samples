@@ -21,6 +21,5 @@
     <!-- Important: disable debuggable for accurate performance results -->
     <application
         android:debuggable="false"
-        android:requestLegacyExternalStorage="true"
         tools:replace="android:debuggable"/>
 </manifest>
